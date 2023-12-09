@@ -47,7 +47,7 @@ Local Binary Pattern (LBP) is a powerful texture operator that labels image pixe
 
 ## SCREENSHOTS
 
-##
+
 ![s](https://github.com/KanzaAkram/Smart_Attendance_System/assets/85638781/ec98dceb-4975-4afc-a6f1-5a007e7907ec)
 
 
